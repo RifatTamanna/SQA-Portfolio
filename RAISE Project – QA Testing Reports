@@ -1,0 +1,120 @@
+RAISE Testing Documentation – 10 QA Reports
+
+1️⃣ Functional Testing Report
+# Functional Testing Report – RAISE Project
+
+## Overview
+Functional testing was performed to verify that all features of the RAISE system work according to requirements.
+
+## Scope
+- Data entry
+- Form submission
+- Report generation
+
+## Result
+System functions are working as expected with minor issues.
+
+## Conclusion
+Functional stability is acceptable.
+2️⃣ Regression Testing Report
+# Regression Testing Report – RAISE Project
+
+## Overview
+Regression testing ensured that new changes did not affect existing features.
+
+## Result
+No critical issues found after bug fixes.
+
+## Conclusion
+System is stable after updates.
+3️⃣ Smoke Testing Report
+# Smoke Testing Report – RAISE Project
+
+## Overview
+Basic smoke testing was performed to check system stability after build deployment.
+
+## Result
+Core functionalities are working properly.
+
+## Conclusion
+Build is stable for further testing.
+4️⃣ Sanity Testing Report
+# Sanity Testing Report – RAISE Project
+
+## Overview
+Sanity testing was conducted after minor changes to verify specific functionalities.
+
+## Result
+Targeted features are working correctly.
+
+## Conclusion
+System passed sanity checks.
+5️⃣ Load Testing Report
+# Load Testing Report – RAISE Project
+
+## Overview
+Load testing was performed to evaluate system performance under multiple users.
+
+## Result
+System handled normal load efficiently with slight delay under peak conditions.
+
+## Conclusion
+Performance is acceptable under expected load.
+6️⃣ Security Testing Report
+# Security Testing Report – RAISE Project
+
+## Overview
+Security testing was conducted to identify vulnerabilities in the system.
+
+## Result
+No major security vulnerabilities found in tested modules.
+
+## Conclusion
+System is reasonably secure with standard protections.
+7️⃣ Usability Testing Report
+# Usability Testing Report – RAISE Project
+
+## Overview
+Usability testing evaluated system ease-of-use for end users.
+
+## Observations
+- Navigation is simple
+- Forms are user-friendly
+- Minor UI improvements needed
+
+## Conclusion
+System is user-friendly.
+8️⃣ Compatibility Testing Report
+# Compatibility Testing Report – RAISE Project
+
+## Overview
+Compatibility testing was performed across different browsers and devices.
+
+## Result
+System works properly on Chrome and Firefox with minor UI differences.
+
+## Conclusion
+Good cross-platform compatibility.
+9️⃣ Accessibility Testing Report
+# Accessibility Testing Report – RAISE Project
+
+## Overview
+Accessibility testing was performed to evaluate usability for users with disabilities.
+
+## Observations
+- Keyboard navigation partially supported
+- Some UI elements need better contrast
+
+## Conclusion
+Improvements needed for full accessibility compliance.
+🔟 Destructive Testing Report
+# Destructive Testing Report – RAISE Project
+
+## Overview
+Destructive testing was performed to evaluate system behavior under invalid or extreme inputs.
+
+## Result
+System handles invalid inputs with proper error messages in most cases.
+
+## Conclusion
+System is stable under negative testing scenarios.
